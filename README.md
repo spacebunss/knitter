@@ -10,7 +10,7 @@ Resolves standalone Obsidian wikilink embeds (`![[note#section]]`) and image emb
 
 Knitter can also rebase embedded heading levels, collect image attachments into a `knitted/` directory, and strip native obsidian comments (`%%..%%`).
 
-## Settings
+## Usage
 Defaults are configured in the plugin settings tab. The command always shows a run modal, so per-run overrides are possible.
 
 ### 1. Rebase headings
