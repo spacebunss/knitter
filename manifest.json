@@ -1,0 +1,9 @@
+{
+  "id": "knitter",
+  "name": "Knitter",
+  "version": "0.2.1",
+  "minAppVersion": "1.5.0",
+  "description": "Knits inline embeds and rebases headings into a cleaned markdown output.",
+  "author": "Marva Chan (spacebunss)",
+  "isDesktopOnly": false
+}
